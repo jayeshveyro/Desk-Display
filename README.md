@@ -1,0 +1,1 @@
+This is a Desk Display. It is a ESP-32 based based project which projects multiple things on the connected oled screen. For the project I have decided to display the calender on it. It can be used to display multiple things, like time,pc stats or a desk pet.
