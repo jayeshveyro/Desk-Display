@@ -15,12 +15,63 @@ This is a Desk Display. It is a ESP-32 based based project which projects multip
 * **3D Printing:** ₹238
 * **Total Project Cost:** **₹956**
   
-##Circuit Design
-<img width="3000" height="3087" alt="circuit_image" src="https://github.com/user-attachments/assets/baa13cfd-887c-48be-b6d3-7cae17678d18" />
+## Circuit Design
+<img width="3000" height="3215" alt="circuit_image" src="https://github.com/user-attachments/assets/b6ef0181-9aef-4596-ab7b-a45f8e9836a6" />
 
-##CAD file
-<img width="608" height="421" alt="Screenshot 2026-09-11 200810" src="https://github.com/user-attachments/assets/a52665b1-4f10-417d-95d8-40e8d3b19191" />
-<img width="552" height="405" alt="Screenshot 2026-09-11 200746" src="https://github.com/user-attachments/assets/90e3e3ef-1e5d-4516-9be1-25f8925aaaa7" />
-<img width="571" height="378" alt="Screenshot 2026-09-11 200608" src="https://github.com/user-attachments/assets/e2f278f6-729b-44bd-8465-a83945cf4e36" />
 
+## CAD file
+## Workflow
+                    POWER ON
+                       |
+                       v
+             +-------------------+
+             |   ROBO EYES MODE  |
+             |                   |
+             |  Animation 1      |
+             |       ↕            |
+             |  Animation 2      |
+             +---------+---------+
+                       |
+                  SHORT PRESS
+                       |
+                       v
+             +-------------------+
+             |    TIME SCREEN    |
+             +---------+---------+
+                       |
+                  SHORT PRESS
+                       |
+                       v
+             +-------------------+
+             |  CALENDAR SCREEN  |
+             +---------+---------+
+                       |
+                  SHORT PRESS
+                       |
+                       v
+             +-------------------+
+             |  WEATHER SCREEN   |
+             |    Faridabad      |
+             +---------+---------+
+                       |
+                  SHORT PRESS
+                       |
+                       v
+             +-------------------+
+             |   ROBO EYES MODE  |
+             +-------------------+
+
+                  LONG PRESS
+                      |
+                      v
+              +----------------+
+              |  PETTING EYES  |
+              |    ^  ^        |
+              |   (  )         |
+              +-------+--------+
+                      |
+                   RELEASE
+                      |
+                      v
+                 Previous mode
 
