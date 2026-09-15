@@ -25,6 +25,7 @@ This is a Desk Display. It is a ESP-32 based based project which projects multip
 
 
 ## CAD file
+<img width="1039" height="432" alt="Screenshot 2026-09-15 220108" src="https://github.com/user-attachments/assets/ed33c738-f658-4a2b-9021-7ef1f8884630" />
 <img width="925" height="377" alt="highlight spaces" src="https://github.com/user-attachments/assets/66f025ae-8da5-4f84-8772-d67bce750d8d" />
 <img width="567" height="296" alt="Screenshot 2026-09-15 103038" src="https://github.com/user-attachments/assets/b161a93d-1c4e-4722-be87-c7d1b1292f1a" />
 <img width="639" height="452" alt="Screenshot 2026-09-15 102827" src="https://github.com/user-attachments/assets/327e8785-af6e-4478-bf30-76bc1b3b4a9f" />
