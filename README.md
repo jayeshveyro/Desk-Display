@@ -11,19 +11,26 @@ This is a Desk Display. It is a ESP-32 based based project which projects multip
 | 4 | TTP223 Touch Key Module — 2 pcs | 29793 | 1 pack | ₹13.00 | ₹13.00 | [Robu](https://robu.in/product/ttp223-touch-key-module-2pcs/) |
 | 5 | 2.54mm 1×40 Pin Male Single Row Straight Short Header Strip — Pack of 3 | 1114172 | 2 | ₹9.00 | ₹18.00 | [Robu](https://robu.in/product/2-54mm-1x40-pin-male-single-row-straight-short-header-strip-pack-of-3/) |
 | 6 | 10-Wire Male-to-Female Jumper Wires — 20cm | R160077 | 1 | ₹15.00 | ₹15.00 | [Robu](https://robu.in/product/10-wire-male-to-female-jumper-wires-20cm/) |
+| 7 | Robu 3D Printing Services | 901845 | 1 | ₹567.00 | ₹567.00 | [Robu]() |
 | | **TOTAL** | | | | **₹1,010.00** | ||
 
 ### Cost Breakdown
 
 * **Electronics:** ₹1010
-* **3D Printing:** ₹238
-* **Total Project Cost:** **₹1248**
+* **3D Printing:** ₹567
+* **Total Project Cost:** **₹1577**
   
 ## Circuit Design
 <img width="3000" height="3215" alt="circuit_image" src="https://github.com/user-attachments/assets/b6ef0181-9aef-4596-ab7b-a45f8e9836a6" />
 
 
 ## CAD file
+<img width="925" height="377" alt="highlight spaces" src="https://github.com/user-attachments/assets/66f025ae-8da5-4f84-8772-d67bce750d8d" />
+<img width="567" height="296" alt="Screenshot 2026-09-15 103038" src="https://github.com/user-attachments/assets/b161a93d-1c4e-4722-be87-c7d1b1292f1a" />
+<img width="639" height="452" alt="Screenshot 2026-09-15 102827" src="https://github.com/user-attachments/assets/327e8785-af6e-4478-bf30-76bc1b3b4a9f" />
+
+
+
 ## Workflow
                     POWER ON
                        |
