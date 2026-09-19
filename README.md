@@ -13,6 +13,10 @@ This is a Desk Display. It is a ESP-32 based based project which projects multip
 | 6 | 10-Wire Male-to-Female Jumper Wires — 20cm | R160077 | 1 | ₹15.00 | ₹15.00 | [Robu](https://robu.in/product/10-wire-male-to-female-jumper-wires-20cm/) |
 | 7 | Robu 3D Printing Services | 901845 | 1 | ₹250.00 | ₹250.00 | Robu |
 | | **TOTAL** | | | | **₹1,260.00** | ||
+<img width="1364" height="617" alt="image" src="https://github.com/user-attachments/assets/f3dca8b1-5db5-4c8c-9b1d-67c4d8837322" />
+<img width="800" height="620" alt="image" src="https://github.com/user-attachments/assets/bcd393d3-b053-4b06-8b87-8ca67b2268ae" />
+
+
 
 ### Cost Breakdown
 
