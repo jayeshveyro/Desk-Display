@@ -11,8 +11,8 @@ This is a Desk Display. It is a ESP-32 based based project which projects multip
 | 4 | TTP223 Touch Key Module — 2 pcs | 29793 | 1 pack | ₹13.00 | ₹13.00 | [Robu](https://robu.in/product/ttp223-touch-key-module-2pcs/) |
 | 5 | 2.54mm 1×40 Pin Male Single Row Straight Short Header Strip — Pack of 3 | 1114172 | 2 | ₹9.00 | ₹18.00 | [Robu](https://robu.in/product/2-54mm-1x40-pin-male-single-row-straight-short-header-strip-pack-of-3/) |
 | 6 | 10-Wire Male-to-Female Jumper Wires — 20cm | R160077 | 1 | ₹15.00 | ₹15.00 | [Robu](https://robu.in/product/10-wire-male-to-female-jumper-wires-20cm/) |
-| 7 | Robu 3D Printing Services | 901845 | 1 | ₹250.00 | ₹250.00 | Robu |
-| | **TOTAL** | | | | **₹1,260.00** | ||
+| 7 | Robu 3D Printing Services | 901845 | 1 | ₹190.00 | ₹190.00 | Robu |
+| | **TOTAL** | | | | **₹1,200.00** | ||
 <img width="1364" height="617" alt="image" src="https://github.com/user-attachments/assets/f3dca8b1-5db5-4c8c-9b1d-67c4d8837322" />
 <img width="800" height="620" alt="image" src="https://github.com/user-attachments/assets/bcd393d3-b053-4b06-8b87-8ca67b2268ae" />
 
