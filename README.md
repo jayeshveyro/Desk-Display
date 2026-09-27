@@ -13,7 +13,8 @@ This is a Desk Display. It is a ESP-32 based based project which projects multip
 | 6 | 10-Wire Male-to-Female Jumper Wires — 20cm | R160077 | 1 | ₹15.00 | ₹15.00 | [Robu](https://robu.in/product/10-wire-male-to-female-jumper-wires-20cm/) |
 | 7 | Robu 3D Printing Services | 901845 | 1 | ₹190.00 | ₹190.00 | Robu |
 | | **TOTAL** | | | | **₹1,200.00** | ||
-<img width="1364" height="617" alt="image" src="https://github.com/user-attachments/assets/f3dca8b1-5db5-4c8c-9b1d-67c4d8837322" />
+<img width="1365" height="589" alt="image" src="https://github.com/user-attachments/assets/9b85e30f-0d64-46cc-ab3b-4da190ba8013" />
+
 <img width="800" height="620" alt="image" src="https://github.com/user-attachments/assets/bcd393d3-b053-4b06-8b87-8ca67b2268ae" />
 
 
@@ -29,10 +30,13 @@ This is a Desk Display. It is a ESP-32 based based project which projects multip
 
 
 ## CAD file
-![image.png](https://cdn.hackclub.com/01a0b575-e466-71fd-b33c-caa8d87b836c/image.png)![image.png](https://cdn.hackclub.com/01a0b576-38f7-7ddc-9f72-1940fdf7b5b6/image.png)![image.png](https://cdn.hackclub.com/01a0b576-9ef0-7e7c-8478-facdc043bc0a/image.png)![image.png](https://cdn.hackclub.com/01a0b577-319b-7e43-8fa2-b9ff7fee155c/image.png)![image.png](https://cdn.hackclub.com/01a0b577-8855-72d2-b88b-7cc2b15df031/image.png)
-![image.png](https://cdn.hackclub.com/01a0b577-e83d-7833-a0a8-060df1bc02e0/image.png)
-<img width="567" height="296" alt="Screenshot 2026-09-15 103038" src="https://github.com/user-attachments/assets/b161a93d-1c4e-4722-be87-c7d1b1292f1a" />
-<img width="639" height="452" alt="Screenshot 2026-09-15 102827" src="https://github.com/user-attachments/assets/327e8785-af6e-4478-bf30-76bc1b3b4a9f" />
+![image.png](https://cdn.hackclub.com/01a0b575-e466-71fd-b33c-caa8d87b836c/image.png)![image.png](https://cdn.hackclub.com/01a0b576-38f7-7ddc-9f72-1940fdf7b5b6/image.png)![image.png](https://cdn.hackclub.com/01a0b576-9ef0-7e7c-8478-facdc043bc0a/image.png)
+
+![image.png](https://cdn.hackclub.com/01a0e28f-813b-71dc-8440-3f14881c55f3/image.png)
+
+![image.png](https://cdn.hackclub.com/01a0e290-03c6-7a08-95ff-4b1bf8ee9891/image.png)
+
+![image.png](https://cdn.hackclub.com/01a0e292-4df5-7bd9-a2cd-2148ad18824a/image.png)
 
 
 
